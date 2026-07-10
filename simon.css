@@ -1,0 +1,54 @@
+*{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2rem
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+
+.btn-container{
+    display: flex; 
+    justify-content: center;
+}
+/*to make the btn ot heading responsive*/
+@media(max-width:600px){
+    .btn{
+        width: 30vw;
+         /*Using vw (viewport width) makes your game scale nicely across devices without changing HTML.*/
+        height: 30vw;
+        margin: 0.5rem;
+        border: 6px solid black;
+    }
+     h1 {
+        font-size: 1.5rem;
+    }
+
+    h2 {
+        font-size: 1rem;
+    }
+}
+/*flash btn class*/
+.flash{
+    background-color: white;
+}
+
+/*flash btn bt clicking by user class*/
+.userFlash{
+    background-color: aqua ;
+}
