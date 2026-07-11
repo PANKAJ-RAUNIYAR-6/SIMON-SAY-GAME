@@ -34,7 +34,7 @@ The game becomes more challenging as each level adds a new color to the sequence
 
 ## 💻 GitHub Repository
 
-https://github.com/your-username/simon-says-game
+https://github.com/PANKAJ-RAUNIYAR-6/SIMON-SAY-GAME.git
 
 ## 📸 Preview
 <img width="368" height="339" alt="image" src="https://github.com/user-attachments/assets/495129f5-4790-43f4-a342-3f8ffaba65e9" />
