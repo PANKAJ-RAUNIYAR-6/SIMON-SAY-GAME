@@ -36,8 +36,7 @@ https://tubular-brioche-3d01e7.netlify.app
 
 https://github.com/PANKAJ-RAUNIYAR-6/SIMON-SAY-GAME.git
 
-## 📸 Preview
-<img width="368" height="339" alt="image" src="https://github.com/user-attachments/assets/495129f5-4790-43f4-a342-3f8ffaba65e9" />
+
 
 
 
