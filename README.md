@@ -30,7 +30,7 @@ The game becomes more challenging as each level adds a new color to the sequence
 
 ## 🔗 Live Demo
 
-**Netlify:** https://tubular-brioche-3d01e7.netlify.app
+https://tubular-brioche-3d01e7.netlify.app
 
 ## 💻 GitHub Repository
 
