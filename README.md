@@ -3,6 +3,10 @@
 A fun and interactive memory game built using **HTML, CSS, and JavaScript**. Players must remember and repeat the sequence of flashing colors.
 The game becomes more challenging as each level adds a new color to the sequence.
 
+## 🌐 Live Demo
+
+👉[Visit Simon Says Game](https://tubular-brioche-3d01e7.netlify.app)
+
 ## 🚀 Features
 
 - 🎯 Random color sequence generation
@@ -28,13 +32,10 @@ The game becomes more challenging as each level adds a new color to the sequence
 4. Each level adds one new color.
 5. The game ends if you click the wrong color.
 
-## 🔗 Live Demo
 
-https://tubular-brioche-3d01e7.netlify.app
+## 👤 Author
 
-## 💻 GitHub Repository
-
-https://github.com/PANKAJ-RAUNIYAR-6/SIMON-SAY-GAME.git
+🐙GitHub: [Pankaj Rauniyar](https://github.com/PANKAJ-RAUNIYAR-6/SIMON-SAY-GAME.git)
 
 
 
